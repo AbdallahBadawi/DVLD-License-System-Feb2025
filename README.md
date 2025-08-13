@@ -13,6 +13,8 @@ Supports CRUD operations using C#, SQL Server, and ADO.NET connectivity, followi
 - SQL Server database integration
 - Clean architecture with separation of concerns
 
+![ApiCRUD](images/Applications%20Menu.png)
+
 ## 🚀 Getting Started
 1. Clone the repository
 2. Open the solution in Visual Studio
