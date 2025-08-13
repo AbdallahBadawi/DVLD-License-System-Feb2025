@@ -18,6 +18,10 @@ Supports CRUD operations using C#, SQL Server, and ADO.NET connectivity, followi
 2. Open the solution in Visual Studio
 3. Configure the SQL Server connection string
 4. Build and run the application
+   
+## 🔑 System login Authentication
+Username: Badawi02
+Passowrd: 1111
 
 ## 👨‍💻 Author
 **Abdallah Badawi**  
