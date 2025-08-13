@@ -20,8 +20,8 @@ Supports CRUD operations using C#, SQL Server, and ADO.NET connectivity, followi
 4. Build and run the application
    
 ## 🔑 System login Authentication
-Username: Badawi02
-Passowrd: 1111
+- Username: Badawi02
+- Passowrd: 1111
 
 ## 👨‍💻 Author
 **Abdallah Badawi**  
