@@ -25,7 +25,9 @@ Supports CRUD operations using C#, SQL Server, and ADO.NET connectivity, followi
 - Username: Badawi02
 - Passowrd: 1111
 
-## 👨‍💻 Author
+## 👨‍💻 Devloper
 **Abdallah Badawi**  
 - Email: eng.abdallah.k.badawi@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/abdallah-k-badawi/)
+---
+⭐ If you like this project, don't hesitate to give it a star!
