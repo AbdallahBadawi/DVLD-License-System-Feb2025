@@ -23,7 +23,7 @@ Supports CRUD operations using C#, SQL Server, and ADO.NET connectivity, followi
 ```bash
 RESTORE DATABASE DVLD
 FROM DISK = 'C:\DVLD-License-System-Feb2025-main\DVLD.bak'
---OR: Write where the backup copy is located in your computer
+--OR: Write where the backup copy is located in your computer..
 ```
 ### 3. Open the solution in Visual Studio
 ### 4. Configure the SQL Server connection string
