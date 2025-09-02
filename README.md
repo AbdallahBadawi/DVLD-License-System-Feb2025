@@ -15,11 +15,19 @@ Supports CRUD operations using C#, SQL Server, and ADO.NET connectivity, followi
 
 ![ApiCRUD](images/Applications%20Menu.png)
 
-## 🚀 Getting Started
-1. Clone the repository
-2. Open the solution in Visual Studio
-3. Configure the SQL Server connection string
-4. Build and run the application
+## 📥 Download and Install Project
+### 1. Clone the repository
+### 2. Restore the Database
+1. Open SQL Server Management Studio
+2. Write this command:
+```bash
+RESTORE DATABASE DVLD
+FROM DISK = 'C:\Bakups_Last_Updated/DVLD_Last_Updated/DVLD.bak'
+--OR: Write where the backup copy is located in your computer
+```
+### 3. Open the solution in Visual Studio
+### 4. Configure the SQL Server connection string
+### 5. Build and run the application
    
 ## 🔑 System login Authentication
 - Username: Badawi02
